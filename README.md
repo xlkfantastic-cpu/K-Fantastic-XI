@@ -1,3 +1,3 @@
 here
 
-https://github.com/xlkfantastic-cpu/K-Fantastic-XI/upload/main
+https://xlkfantastic-cpu.github.io/K-Fantastic-XI/
